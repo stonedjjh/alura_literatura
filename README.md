@@ -69,16 +69,3 @@ Una vez que la aplicación se inicie, se mostrará el menú gráfico donde podr�
 * **Libros por Idioma**: Lista libros filtrados por idioma, tanto de Gutendex y registrados
 * **Top 13**: Consulta los libros más descargados, tanto desde Gutendex y registrados.
 * **Interfaz Gráfica (GUI)**: Menú interactivo basado en Swing para una experiencia de usuario amigable.
-
-
-
-##  Demo
-![LiterAlura.gif](../../../../resources/imagenes/LiterAlura.gif)
-
-
-
-##  Dedicatoria
-Para y por Cristina el motor de mi vida con mucho ❤️
-
-
-## Creado por Oscar Coloma P.
